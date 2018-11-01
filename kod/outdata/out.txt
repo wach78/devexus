@@ -1,0 +1,30 @@
+SSN:        611017-0248
+Firstname:  Anna
+Surname:    Jansson
+Phone:      08-101020
+City:       Strängnäs
+*************************
+SSN:        820422-1943
+Firstname:  Erik
+Surname:    Karlsson
+Phone:      073-6685112
+City:       Haparanda
+*************************
+SSN:        861010-4532
+Firstname:  Hannes
+Surname:    Berg
+Phone:      
+City:       Sundsvall
+*************************
+SSN:        900504-6618
+Firstname:  Emma
+Surname:    Persson
+Phone:      019-101015
+City:       Karlskoga
+*************************
+SSN:        951011-3234
+Firstname:  Stina
+Surname:    Larsson
+Phone:      070-4510100
+City:       Östersund
+*************************
